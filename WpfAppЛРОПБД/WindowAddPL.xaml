@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfAppЛРОПБД.WindowAddPL"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppЛРОПБД"
+        mc:Ignorable="d"
+        Title="WindowAddPL" Height="450" Width="800">
+    <Grid Background="#FF9C8AB3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/><!--заголовок-->
+                    <RowDefinition Height="1*"/><!--добавлялка 1-->
+                    <RowDefinition Height="1*"/><!--добавлялка 2-->
+                    <RowDefinition Height="1*"/> <!--подвал-->
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" 
+                    VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="Добавление новой записи" FontSize="22" 
+                       Height="30"/>
+                </StackPanel>
+                <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal">
+                    <Button Name="Back" Content="Назад" Click="Back_Click" Width="100" 
+                    Height="40" FontSize="16" Margin="270,0,0,0"/>
+                </StackPanel>
+                <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+                    <Button Name="Save" Content="Сохранить" Click="Save_Click" Width="100" 
+                    Height="40" FontSize="16" Margin="270,0,0,0"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal">
+                    <TextBox Text="{Binding Name}" Name="txtName" 
+                     Width="350" Height="50" Margin="20" HorizontalAlignment="Left"/>
+                </StackPanel>
+                <TextBlock Text="Имя Клиента" Grid.Row="1" Grid.Column="0" 
+                   TextAlignment="Center" VerticalAlignment="Center"
+                   FontSize="20"/>
+
+
+                <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal">
+                    <TextBox Text="{Binding IP}" Name="txtIP"  
+                     Width="350" Height="50" Margin="20" HorizontalAlignment="Left"/>
+                </StackPanel>
+        <TextBlock Text="IP Клиента" Grid.Row="2" Grid.Column="0" 
+                   TextAlignment="Center" VerticalAlignment="Center"
+                   FontSize="20"/>
+    </Grid>
+</Window>

@@ -1,0 +1,119 @@
+﻿<Window x:Class="WpfAppЛРОПБД.WindowKlientiki"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppЛРОПБД"
+        mc:Ignorable="d"
+        Title="WindowKlientiki" Height="550"
+        Width="800" MaxHeight="550" MaxWidth="800" 
+        MinHeight="550" MinWidth="800">
+    <Grid Background="#FF9C8AB3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Row="0" Orientation="Horizontal" 
+                     VerticalAlignment="Center"
+                HorizontalAlignment="Left" Margin="20">
+            <TextBlock FontSize="22" 
+                       TextWrapping="Wrap" Width="430" 
+                       TextAlignment="Center"><Run Text="Услуги"/>
+                <Run Text=" (чушпан"/><Run Text="а"/><Run Text=" или реальн"/>
+                <Run Text="ого"/><Run Text=" "/><Run Text="пацан"/>
+                <Run Language="ru-ru" Text="а"/><Run Text=")"/></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="Имя" Width="130" 
+                       TextAlignment="Center" 
+                       Margin="5" Height="20"/>
+            <ComboBox Name="cmbName" SelectionChanged="cmbName_SelectionChanged" 
+                      Margin="0,5,5,5" Width="380"
+                      Height="40"></ComboBox>
+            <Button Name="btnPlateji" Click="btnPlateji_Click"
+                    Content="Клиенты" 
+                    Width="110" Height="40" Margin="10,0,10,0"/>
+            <Button Name="btnDomoi" Click="btnDomoi_Click"
+                    Content="Домой" Width="110" 
+                    Height="40" Margin="10,0,10,0"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock Text="Услуга" FontSize="16"
+                       Width="130" TextAlignment="Center"
+                       VerticalAlignment="Top" Height="25"
+                       Margin="5,20,0,0"/>
+            <DataGrid Name ="dtgKlientiki" 
+                      AutoGenerateColumns="False" 
+                      CanUserAddRows="False" Height="234" 
+                      Width="640">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding ConnectingTime}" 
+                                        Header="Длительность" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Result}"
+                                        Header="Итог" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding id_klient}"
+                                        Header="Код клиента" Width="*"/>
+                    <DataGridTextColumn Binding="{Binding Klient.Name}"
+                                        Header="Имя" Width="*"/>
+                    <DataGridTemplateColumn Width="Auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Name="btnEdit"
+                                Click="btnEdit_Click"
+                                Content="Редактировать"
+                                Width="100" Height="50"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" HorizontalAlignment="Left"
+                    Orientation="Horizontal">
+            <TextBlock Text="Сортировка" FontSize="16" 
+                       Width="130" VerticalAlignment="Top" 
+                       TextAlignment="Center" Height="25"
+                       Margin="5,20,0,0"/>
+            <StackPanel VerticalAlignment="Center">
+                <RadioButton x:Name="rbUp" Content="По возрастанию суммы"
+                             Click="rbUp_Click"
+                             FontSize="16" Width="200" Height="20"/>
+                <RadioButton x:Name="rbDown" Content="По убыванию суммы"
+                             Click="rbDown_Click" 
+                             FontSize="16" Width="200" Height="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="Delete" Content="Удалить" Click="Delete_Click"
+                        Width="100" 
+                    Height="35" FontSize="16" Margin="220 0 0 0"/>
+                <Button 
+                    Name="Dobavit" 
+                    Content="Добавить" 
+                    Click="Dobavit_Click" 
+                    Width="100" 
+                    Height="35" 
+                    FontSize="16" 
+                    Margin="20 0 0 0"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="4" 
+                    HorizontalAlignment="Left" 
+                    Orientation="Horizontal">
+            <TextBlock Text="Поиск по Сумме" 
+                       FontSize="16" Width="130"
+                       TextAlignment="Center" 
+                       VerticalAlignment="Top" 
+                       Height="25"
+                       Margin="5 20 0 0"/>
+            <TextBox Name="txtSearch" 
+                         TextChanged="txtSearch_TextChanged" 
+                         Margin="5" 
+                         Height="40" 
+                     Width="530"/>
+        </StackPanel>
+    </Grid>
+</Window>

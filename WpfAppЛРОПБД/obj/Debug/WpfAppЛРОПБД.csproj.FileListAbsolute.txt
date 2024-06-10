@@ -1,0 +1,257 @@
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\Основы алгоритмизации\ДЗ алгоритмы\ПР4 рожков\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.SuggestedBindingRedirects.cache
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+E:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.SuggestedBindingRedirects.cache
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+F:\ЛР опбд сигмач\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+C:\Users\admin\Desktop\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.g.cs
+C:\Users\admin\Desktop\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.SuggestedBindingRedirects.cache
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.baml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.g.cs
+E:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+D:\МДК1\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe.config
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\WpfAppЛРОПБД.pdb
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.xml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.AssemblyReference.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_Content.g.cs
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД_MarkupCompile.lref
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\App.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\Dobavlenie.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\MainWindow.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowAddPL.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowKlientiki.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WindowPlateji.baml
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.g.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.Properties.Resources.resources
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.GenerateResource.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CoreCompileInputs.cache
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.csproj.CopyComplete
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.exe
+C:\Users\rozhk\OneDrive\Рабочий стол\РОЖКОВ\Сигмач рожков йаххууу\WpfAppЛРОПБД\WpfAppЛРОПБД\obj\Debug\WpfAppЛРОПБД.pdb

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InternetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Klient">
+    <Key>
+      <PropertyRef Name="id_klient" />
+    </Key>
+    <Property Name="id_klient" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Services" Relationship="Self.FK_Service_Klient" FromRole="Klient" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="PriceList">
+    <Key>
+      <PropertyRef Name="id_priceList" />
+    </Key>
+    <Property Name="id_priceList" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mincost" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Tarif" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Services" Relationship="Self.FK_Service_PriceList" FromRole="PriceList" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="Provider">
+    <Key>
+      <PropertyRef Name="id_provider" />
+    </Key>
+    <Property Name="id_provider" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProvidersName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Services" Relationship="Self.FK_Service_Provider" FromRole="Provider" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="id_service" />
+    </Key>
+    <Property Name="id_service" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_klient" Type="Int32" />
+    <Property Name="id_provider" Type="Int32" />
+    <Property Name="id_PriceList" Type="Int32" />
+    <Property Name="ConnectingTime" Type="Int32" />
+    <Property Name="Result" Type="Decimal" Precision="19" Scale="4" />
+    <NavigationProperty Name="Klient" Relationship="Self.FK_Service_Klient" FromRole="Service" ToRole="Klient" />
+    <NavigationProperty Name="PriceList" Relationship="Self.FK_Service_PriceList" FromRole="Service" ToRole="PriceList" />
+    <NavigationProperty Name="Provider" Relationship="Self.FK_Service_Provider" FromRole="Service" ToRole="Provider" />
+  </EntityType>
+  <Association Name="FK_Service_Klient">
+    <End Role="Klient" Type="Self.Klient" Multiplicity="0..1" />
+    <End Role="Service" Type="Self.Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Klient">
+        <PropertyRef Name="id_klient" />
+      </Principal>
+      <Dependent Role="Service">
+        <PropertyRef Name="id_klient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Service_PriceList">
+    <End Role="PriceList" Type="Self.PriceList" Multiplicity="0..1" />
+    <End Role="Service" Type="Self.Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PriceList">
+        <PropertyRef Name="id_priceList" />
+      </Principal>
+      <Dependent Role="Service">
+        <PropertyRef Name="id_PriceList" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Service_Provider">
+    <End Role="Provider" Type="Self.Provider" Multiplicity="0..1" />
+    <End Role="Service" Type="Self.Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Provider">
+        <PropertyRef Name="id_provider" />
+      </Principal>
+      <Dependent Role="Service">
+        <PropertyRef Name="id_provider" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InternetEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Klients" EntityType="Self.Klient" />
+    <EntitySet Name="PriceLists" EntityType="Self.PriceList" />
+    <EntitySet Name="Providers" EntityType="Self.Provider" />
+    <EntitySet Name="Services" EntityType="Self.Service" />
+    <AssociationSet Name="FK_Service_Klient" Association="Self.FK_Service_Klient">
+      <End Role="Klient" EntitySet="Klients" />
+      <End Role="Service" EntitySet="Services" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Service_PriceList" Association="Self.FK_Service_PriceList">
+      <End Role="PriceList" EntitySet="PriceLists" />
+      <End Role="Service" EntitySet="Services" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Service_Provider" Association="Self.FK_Service_Provider">
+      <End Role="Provider" EntitySet="Providers" />
+      <End Role="Service" EntitySet="Services" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

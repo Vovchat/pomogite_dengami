@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище InternetModelContainer" CdmEntityContainer="InternetEntities">
+    <EntitySetMapping Name="Klients">
+      <EntityTypeMapping TypeName="InternetModel.Klient">
+        <MappingFragment StoreEntitySet="Klient">
+          <ScalarProperty Name="id_klient" ColumnName="id_klient" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IP" ColumnName="IP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PriceLists">
+      <EntityTypeMapping TypeName="InternetModel.PriceList">
+        <MappingFragment StoreEntitySet="PriceList">
+          <ScalarProperty Name="id_priceList" ColumnName="id_priceList" />
+          <ScalarProperty Name="mincost" ColumnName="mincost" />
+          <ScalarProperty Name="Tarif" ColumnName="Tarif" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Providers">
+      <EntityTypeMapping TypeName="InternetModel.Provider">
+        <MappingFragment StoreEntitySet="Provider">
+          <ScalarProperty Name="id_provider" ColumnName="id_provider" />
+          <ScalarProperty Name="ProvidersName" ColumnName="ProvidersName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="InternetModel.Service">
+        <MappingFragment StoreEntitySet="Service">
+          <ScalarProperty Name="id_service" ColumnName="id_service" />
+          <ScalarProperty Name="id_klient" ColumnName="id_klient" />
+          <ScalarProperty Name="id_provider" ColumnName="id_provider" />
+          <ScalarProperty Name="id_PriceList" ColumnName="id_PriceList" />
+          <ScalarProperty Name="ConnectingTime" ColumnName="ConnectingTime" />
+          <ScalarProperty Name="Result" ColumnName="Result" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
